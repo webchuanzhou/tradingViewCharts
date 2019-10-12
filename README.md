@@ -1,4 +1,5 @@
 tradingView 使用方式，只包含组件以及提供实现思路。
+版本1.14
 目录结构，
 tradeview 于static目录下,
 charting_library.min.js/datafeeds 与src目录下
